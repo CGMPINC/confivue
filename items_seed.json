@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "version": "0.2.0",
+    "domains": [
+      "Agency",
+      "Belonging",
+      "Body",
+      "Emotion"
+    ]
+  },
+  "items": [
+    {
+      "id": "it001",
+      "age_band": "7-10",
+      "domain": "Agency",
+      "format": "pictorial",
+      "stem": "When homework is hard, I can keep trying.",
+      "options": [
+        "\u2639\ufe0f",
+        "\ud83d\ude41",
+        "\ud83d\ude10",
+        "\ud83d\ude42",
+        "\ud83d\ude04"
+      ]
+    },
+    {
+      "id": "it002",
+      "age_band": "7-10",
+      "domain": "Belonging",
+      "format": "pictorial",
+      "stem": "I can ask a friend or teacher for help.",
+      "options": [
+        "\u2639\ufe0f",
+        "\ud83d\ude41",
+        "\ud83d\ude10",
+        "\ud83d\ude42",
+        "\ud83d\ude04"
+      ]
+    },
+    {
+      "id": "it003",
+      "age_band": "7-10",
+      "domain": "Emotion",
+      "format": "pictorial",
+      "stem": "I can take deep breaths when I feel upset.",
+      "options": [
+        "\u2639\ufe0f",
+        "\ud83d\ude41",
+        "\ud83d\ude10",
+        "\ud83d\ude42",
+        "\ud83d\ude04"
+      ]
+    },
+    {
+      "id": "it101",
+      "age_band": "11-13",
+      "domain": "Agency",
+      "format": "likert",
+      "stem": "I can make a plan and follow it even when I\u2019m busy.",
+      "options": [
+        "Strongly Disagree",
+        "Disagree",
+        "Not Sure",
+        "Agree",
+        "Strongly Agree"
+      ]
+    },
+    {
+      "id": "it102",
+      "age_band": "11-13",
+      "domain": "Emotion",
+      "format": "likert",
+      "stem": "I can calm myself when I feel stressed.",
+      "options": [
+        "Strongly Disagree",
+        "Disagree",
+        "Not Sure",
+        "Agree",
+        "Strongly Agree"
+      ]
+    },
+    {
+      "id": "it103",
+      "age_band": "11-13",
+      "domain": "Belonging",
+      "format": "likert",
+      "stem": "I can speak up when I need support from others.",
+      "options": [
+        "Strongly Disagree",
+        "Disagree",
+        "Not Sure",
+        "Agree",
+        "Strongly Agree"
+      ]
+    },
+    {
+      "id": "it201",
+      "age_band": "14-19",
+      "domain": "Body",
+      "format": "likert",
+      "stem": "I can challenge negative self-talk about my body with facts about my strengths.",
+      "options": [
+        "Strongly Disagree",
+        "Disagree",
+        "Not Sure",
+        "Agree",
+        "Strongly Agree"
+      ]
+    },
+    {
+      "id": "it202",
+      "age_band": "14-19",
+      "domain": "Belonging",
+      "format": "likert",
+      "stem": "When friends disagree with me, I can stay calm and explain my side.",
+      "options": [
+        "Strongly Disagree",
+        "Disagree",
+        "Not Sure",
+        "Agree",
+        "Strongly Agree"
+      ]
+    },
+    {
+      "id": "it203",
+      "age_band": "14-19",
+      "domain": "Agency",
+      "format": "likert",
+      "stem": "I can try a different strategy if the first one doesn\u2019t work.",
+      "options": [
+        "Strongly Disagree",
+        "Disagree",
+        "Not Sure",
+        "Agree",
+        "Strongly Agree"
+      ]
+    }
+  ]
+}

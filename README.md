@@ -1,2 +1,1 @@
-# confivue
-CONFIVUE — Confidence &amp; Self-Efficacy Adaptive Test Platform
+# CONFIVUE App (Dockerized Starter)\n\nRun: docker compose up --build\nFrontend http://localhost:3000  Backend http://localhost:8000/docs\n

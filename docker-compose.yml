@@ -1,0 +1,1 @@
+version: '3.9'\nservices:\n  backend:\n    build: ./backend\n    ports: ['8000:8000']\n  frontend:\n    build: ./frontend\n    environment:\n      - BACKEND_URL=http://backend:8000\n    ports: ['3000:3000']\n    depends_on: [backend]\n

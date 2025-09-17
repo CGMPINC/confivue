@@ -1,0 +1,1 @@
+export default function Results(){return(<main style={{padding:24,fontFamily:'sans-serif'}}><h1>Results</h1><p>Run an assessment to see a report.</p></main>)}
