@@ -1,1 +1,2 @@
-# CONFIVUE App (Dockerized Starter)\n\nRun: docker compose up --build\nFrontend http://localhost:3000  Backend http://localhost:8000/docs\n
+Run: uvicorn app.main:app --reload --port 8000
+Docs: http://localhost:8000/docs
