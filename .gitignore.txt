@@ -1,4 +1,4 @@
-# --- Python ---
+# ---- Python ----
 __pycache__/
 *.py[cod]
 *.pyo
@@ -11,7 +11,7 @@ env/
 ENV/
 .Python
 
-# --- Node / Next.js ---
+# ---- Node / Next.js ----
 node_modules/
 .next/
 dist/
@@ -20,26 +20,26 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# --- OS / IDE Files ---
+# ---- Build / Cache ----
+coverage/
+.cache/
+tmp/
+*.log
+*.pid
+
+# ---- Environment Variables ----
+.env
+.env.local
+.env.*.local
+
+# ---- IDE / OS Files ----
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 *.swp
 
-# --- Build / Temp ---
-*.log
-coverage/
-.cache/
-tmp/
-*.pid
-
-# --- Docker ---
+# ---- Docker ----
 *.local
 docker-compose.override.yml
-
-# --- Environment variables ---
-.env
-.env.local
-.env.*.local
 
